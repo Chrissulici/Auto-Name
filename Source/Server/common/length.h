@@ -1,0 +1,8 @@
+//search:
+	GOLD_MAX 						= 1000000000000001LL,
+
+//add:
+#ifdef ENABLE_AUTONAME_SYSTEM
+	AUTONAME_SCROLL_VNUM 			= 600005,
+#endif
+
